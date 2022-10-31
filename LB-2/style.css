@@ -1,0 +1,26 @@
+head title{
+    display: flex;
+}
+
+footer{
+    background-color: aqua;
+    color: black;
+    text-align: center;
+}
+
+div#header{
+    display: flex;
+}
+
+div#navigation{
+    justify-content: right;
+    position: relative;left: 890px; bottom: 55px;;
+    border: none;
+    background: none;
+}
+
+div#title-1{
+    display: flex;
+    align-items: center;
+}
+
